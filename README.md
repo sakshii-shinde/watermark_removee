@@ -1,7 +1,6 @@
 # PDF Watermark Remover
 
-
-## Quick Setup 
+## Quick Setup
 
 **Step 1:** Open your computer's command line:
 
@@ -21,11 +20,12 @@ pip install -r requirements.txt
 - **Mac users**: Type: `brew install poppler`
 - **Windows users**: Download from https://poppler.freedesktop.org/ and install it
 
-**step 5**: 
+**step 5**:
 
 - **Create a folder**: Make a new folder called `pdf_data` in this project folder and put your PDF files with watermarks inside
 
-**step 6**: 
+**step 6**:
+
 - **Run the program**: In the command line, type:
 
 ```
@@ -33,4 +33,3 @@ python watermark_remove.py
 ```
 
 4. **Get your clean PDFs**: A new folder called `clean_pdf_data` will appear with your watermark-free PDFs
-
