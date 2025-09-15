@@ -1,8 +1,7 @@
 # PDF Watermark Remover
 
-This tool removes watermarks from PDF files automatically.
 
-## Quick Setup (One-time only)
+## Quick Setup 
 
 **Step 1:** Open your computer's command line:
 
@@ -22,13 +21,12 @@ pip install -r requirements.txt
 - **Mac users**: Type: `brew install poppler`
 - **Windows users**: Download from https://poppler.freedesktop.org/ and install it
 
-## How to Use
+**step 5**: 
 
-1. **Create a folder**: Make a new folder called `pdf_data` in this project folder
+- **Create a folder**: Make a new folder called `pdf_data` in this project folder and put your PDF files with watermarks inside
 
-2. **Add your PDFs**: Put your PDF files with watermarks inside the `pdf_data` folder
-
-3. **Run the program**: In the command line, type:
+**step 6**: 
+- **Run the program**: In the command line, type:
 
 ```
 python watermark_remove.py
