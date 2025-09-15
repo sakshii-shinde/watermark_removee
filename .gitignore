@@ -1,4 +1,6 @@
 .venv
+*.log
 __pycache__
 clean_pdf_data
 pdf_data
+temp_images
