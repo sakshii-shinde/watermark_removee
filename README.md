@@ -36,9 +36,3 @@ python watermark_remove.py
 
 4. **Get your clean PDFs**: A new folder called `clean_pdf_data` will appear with your watermark-free PDFs
 
-## What You'll See
-
-- The program creates folders automatically when you run it
-- Original files stay unchanged
-- Clean files have "cleaned\_" added to their names
-- Large PDFs take a few minutes to process
