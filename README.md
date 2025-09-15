@@ -32,4 +32,4 @@ pip install -r requirements.txt
 python watermark_remove.py
 ```
 
-4. **Get your clean PDFs**: A new folder called `clean_pdf_data` will appear with your watermark-free PDFs
+- **Get your clean PDFs**: A new folder called `clean_pdf_data` will appear with your watermark-free PDFs
