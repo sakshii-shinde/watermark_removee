@@ -1,5 +1,17 @@
-.venv
-__pycache__
-clean_pdf_data
-pdf_data
-temp_images
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated and user-provided documents
+pdf_data/
+clean_pdf_data/
+temp_images/
+*.pdf
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp
